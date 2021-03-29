@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...flutter
+- 🔭 I’m currently working on ...google solution challenge 2021
 - 🌱 I’m currently learning ...flutter
 - 👯 I’m looking to collaborate on ...youtube
 - 🤔 I’m looking for help with ...google
