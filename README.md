@@ -64,3 +64,7 @@ Module 5:
 (Advance)
 ⦁	Application will display the logos of recognized brands like foodpanda, Careem etc on which collaborating with them will allow donators to directly contribute while availing their services
 ⦁	Our partners will be able to directly transfer the cash in admin account on further which it will distributed in any of the section
+
+
+
+
