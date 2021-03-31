@@ -1,16 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...google solution challenge 2021
-- 🌱 I’m currently learning ...flutter
-- 👯 I’m looking to collaborate on ...youtube
-- 🤔 I’m looking for help with ...google
-- 💬 Ask me about ...flutter
-- 📫 How to reach me: ...facebook
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...tidsoptimist
--->
+<h1>Documentation for Social Sapiens</h1>
 
 ![all cases section](https://user-images.githubusercontent.com/60918011/113152008-1a861a80-924f-11eb-926d-1591ce6b4cf7.png)
 
